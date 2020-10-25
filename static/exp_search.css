@@ -1,0 +1,92 @@
+
+html *{
+  font-family: Arial;
+}
+
+
+
+.donut{
+  position: absolute;
+  /* float: right; */
+  height:300px;
+  width:450px;
+  top:-80;
+  right:0;
+  /* margin-bottom: 1000px; */
+
+}
+
+.search-form {
+    position: absolute;
+    width: 800px;
+    margin-top: 10px;
+    left:0;
+    top: 10;
+}
+
+.explainable-form{
+  position: relative;
+  margin-bottom: 100px;
+}
+
+.explainable-form h4{
+  position: absolute;
+  top:200;
+  right:0;
+}
+
+
+.iconDetails {
+margin-right:2%;
+float:left;
+height:200px;
+width:160px;
+}
+
+.input-lg {
+  width: 350px;
+  height: 35px;
+  font-size: 20;
+}
+
+.ibox-content {
+    background-color: #FFFFFF;
+    color: inherit;
+    padding: 15px 20px 20px 20px;
+    border-color: #E7EAEC;
+    border-image: none;
+    border-style: solid solid none;
+    border-width: 1px 0px;
+}
+
+
+
+.search-result h3 {
+    /* float: left; */
+    margin-top: 30px;
+    margin-bottom: 0;
+    color: #1E0FBE;
+}
+
+
+.search-result p {
+    /* float: left; */
+    /* height: 300px */
+    width: 800px;
+    font-size: 14px;
+    margin-top: 45px;
+    margin-bottom: 50px;
+}
+
+.hr-line-dashed {
+    /* border-top: 1px dashed #E7EAEC; */
+    /* color: #ffffff; */
+    /* background-color: #ffffff; */
+    height: 1px;
+    margin: 20px 0;
+}
+
+h2 {
+    font-size: 24px;
+    font-weight: 100;
+}
